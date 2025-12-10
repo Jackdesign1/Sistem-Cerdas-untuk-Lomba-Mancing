@@ -100,8 +100,7 @@ $hasil_spk = $spk->hitung_spk();
 <body>
 <div class="container">
     <header>
-        <h1>🎣 Sistem SPK Lomba Pemancingan Ikan Nila</h1>
-        <p>Metode Weighted Product (WP) - Indikator: Berat & Panjang</p>
+        <h1>Sistem SPK Lomba Pemancingan Ikan Nila</h1>
     </header>
 
     <!-- Message -->
